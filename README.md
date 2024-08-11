@@ -1,12 +1,9 @@
 # Hello_outer_world
 Hello to the real world 
 
-#Hello hello
-##Hello hello
-###Hello hello hello
-
-- Markdown bullet
-- [] todo
-- -> let's see
-- +1
-- 
+Let's make the bullet list into small todo lists.
+- Learning new tech
+- Combining small packets of software to make something unique
+- Keep understanding data flow on the web
+- Keep verifying security risks
+- Make a dashboard for yourself
